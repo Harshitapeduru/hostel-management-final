@@ -31,7 +31,7 @@ Below are some screenshots of the application demonstrating its various features
 
 ![image](https://github.com/user-attachments/assets/3a795bee-19d2-49e8-a97c-46da7474760f)
 
- # Dashboard
+ # Home Dashboard
 admin side:![Screenshot 2024-07-31 135528](https://github.com/user-attachments/assets/d1a30b02-6826-4545-aeba-729bd9e3bbff)
 student side:![Screenshot 2024-07-31 135657](https://github.com/user-attachments/assets/88bb8379-fc85-4be2-8d0c-81860dbe5838)
 
