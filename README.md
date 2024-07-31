@@ -71,7 +71,7 @@ admin side: ![Screenshot 2024-07-31 135636](https://github.com/user-attachments/
 student side:![image](https://github.com/user-attachments/assets/e645e2a1-c258-4910-ad14-721db0d6c58b)
 
 
-Installation
+# Installation
 
 To set up the project locally, follow these steps:
 
@@ -98,16 +98,16 @@ Backend:
     cd client
    npm start
 
-Technologies Used
+# Technologies Used
 
 Frontend: React, HTML, CSS
 Backend: Node.js, Express.js
 Database: MongoDB
 
-Contributing
+# Contributing
 
 Feel free to contribute to the project by submitting pull requests or reporting issues. For detailed information on contributing, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
