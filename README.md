@@ -35,6 +35,26 @@ Mess Management
 admin side: ![Screenshot 2024-07-31 135606](https://github.com/user-attachments/assets/ddcda7c8-b889-438c-966d-c878559964a7)
 student side:![Screenshot 2024-07-31 135717](https://github.com/user-attachments/assets/e9b1ddde-0abe-4dfc-8543-a391497f770d)
 
+checkin-checkout
+
+student side:![image](https://github.com/user-attachments/assets/f5a12a14-41ac-46b2-8c85-67ca324ed6f0)
+
+Invoice:
+admin side:![image](https://github.com/user-attachments/assets/44e12858-e61a-49ac-aa63-3af7c2e00310)
+
+student side:![image](https://github.com/user-attachments/assets/dafcfb18-f3db-40f7-8be7-659c5d705b94)
+
+
+Complaints:
+admin side:![image](https://github.com/user-attachments/assets/9bfc52de-9afe-4334-93a9-21abf6bad265)
+
+student side:![image](https://github.com/user-attachments/assets/28ec4290-c3f6-4749-b136-cffa1b45d80e)
+
+Suggestions
+admin side:![image](https://github.com/user-attachments/assets/01d556ea-c233-4550-9f7f-447066a7da03)
+
+student side:![image](https://github.com/user-attachments/assets/7410ca0d-a85f-4e5f-9654-8a2aecbcaac5)
+
 
 Attendance Tracking:
 admin side:![Screenshot 2024-07-31 135732](https://github.com/user-attachments/assets/236a2e10-9258-4725-86e2-7822b552a3a2)
@@ -54,7 +74,7 @@ Installation
 
 To set up the project locally, follow these steps:
 
-1. Clone the Repository:
+1. Clone the Repository:git clone https://github.com/Harshitapeduru/hostel-management-system.git
  
 2. Navigate to the Project Directory:
    
